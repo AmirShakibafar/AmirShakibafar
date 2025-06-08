@@ -8,23 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirshakibafar)
 [![Email](https://img.shields.io/badge/Email-amir.shakibafar82%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amir.shakibafar82@gmail.com)
 
-## 💼 What I Do
-
-- 👨‍🏫 **Teaching Assistant**  
-  Supporting Data Structures, Intro to Programming & AI at Hormozgan University
-
-- 💡 **UX Designer**  
-  Bootcamp-trained in UX research, A/B testing, usability testing, and prototyping
-
-- ⚛️ **React Developer**  
-  Specializing in responsive UIs, state management, and component systems
-
-- 🗺️ **Map-Based App Developer**  
-  Built a role-based dashboard for Hormozgan Electrical Map with secure login and real-time map features using React Leaflet
-
-- 🧠 **OS Concepts Visualizer**  
-  Bridged theory and practice by building real-time scheduling/memory visualizations for students and instructors
-  
 ## 💻 Tech Stack
 
 ### 🖼️ Frontend
@@ -55,7 +38,23 @@
 ![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white)
 
 ---
+## 💼 What I Do
 
+- 👨‍🏫 **Teaching Assistant**  
+  Supporting Data Structures, Intro to Programming & AI at Hormozgan University
+
+- 💡 **UX Designer**  
+  Bootcamp-trained in UX research, A/B testing, usability testing, and prototyping
+
+- ⚛️ **React Developer**  
+  Specializing in responsive UIs, state management, and component systems
+
+- 🗺️ **Map-Based App Developer**  
+  Built a role-based dashboard for Hormozgan Electrical Map with secure login and real-time map features using React Leaflet
+
+- 🧠 **OS Concepts Visualizer**  
+  Bridged theory and practice by building real-time scheduling/memory visualizations for students and instructors
+  
 ## 🚀 Currently Exploring
 
 - 🎨 Design-to-code workflows  
