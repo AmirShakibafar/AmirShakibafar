@@ -64,9 +64,8 @@
 
 ---
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmirShakibafar&show_icons=true&theme=radical&count_private=true&include_all_commits=true&v=1&timestamp=2044442779610)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirShakibafar&layout=compact&theme=radical&v=1&timestamp=20444425198889)
+![amirshakibafar's Stats](https://github-readme-stats.vercel.app/api?username=amirshakibafar&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![amirshakibafar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirshakibafar&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
