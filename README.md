@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=10&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Amir+Shakibafar;Frontend+Developer+%7C+UX+Designer+%7C+Educator;&color=FFFFFF" alt="Typing SVG" />
 </p> 
-
+ 
 ## 🌐 Socials
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmirShakibafar)
