@@ -109,10 +109,7 @@ Helping students understand complex computer science concepts through practical 
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amirshakibafar&theme=github_dark&show_icons=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirshakibafar&layout=compact&theme=github_dark" />
-</p>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AmirShakibafar&show_icons=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=AmirShakibafar&show_icons=true&theme=transparent)
 
 ---
 
